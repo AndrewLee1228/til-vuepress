@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Today I Learn',
+    title: 'J911',
     description: 'TIL: Today I Learn',
     themeConfig: {
         sidebar:  [
@@ -34,6 +34,15 @@ module.exports = {
                     '/til/TypeScript/02-building-ENV-and-using-compiler'
                 ],
             },
+            {
+                title: 'data-communication',
+                children: [
+                    '/til/data-communication/01-introduction',
+                    '/til/data-communication/02-network-models',
+                    '/til/data-communication/03-data-and-signals',              
+                    '/til/data-communication/04-digital-transmission'                  
+                ]
+            }
         ]
     }
 }

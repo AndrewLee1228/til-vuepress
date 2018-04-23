@@ -40,7 +40,9 @@ module.exports = {
                     '/til/data-communication/01-introduction',
                     '/til/data-communication/02-network-models',
                     '/til/data-communication/03-data-and-signals',              
-                    '/til/data-communication/04-digital-transmission'                  
+                    '/til/data-communication/04-digital-transmission',
+                    '/til/data-communication/06-bandwidth-utilization',
+                    '/til/data-communication/07-switching'             
                 ]
             }
         ]

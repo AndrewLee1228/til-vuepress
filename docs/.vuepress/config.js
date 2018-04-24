@@ -53,7 +53,8 @@ module.exports = {
                             title: 'typeScript',
                             children: [
                                 '/til/TypeScript/01-TypeScript-overview',
-                                '/til/TypeScript/02-building-ENV-and-using-compiler'
+                                '/til/TypeScript/02-building-ENV-and-using-compiler',
+                                '/til/TypeScript/03-using-tslint'
                             ],
                         },
                         {
@@ -63,6 +64,7 @@ module.exports = {
                                 '/til/data-communication/02-network-models',
                                 '/til/data-communication/03-data-and-signals',              
                                 '/til/data-communication/04-digital-transmission',
+                                '/til/data-communication/05-analog-transmission',
                                 '/til/data-communication/06-bandwidth-utilization',
                                 '/til/data-communication/07-switching',
                                 '/til/data-communication/08-arp'

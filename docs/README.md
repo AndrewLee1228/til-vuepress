@@ -1,11 +1,38 @@
-# Today I Learned
-- [J911](https://github.com/J911)이 배우고, 경험한 것을 기록으로 남긴다.
+---
+home: true
+heroImage: /profile.jpg
+footer: Copyright © 2018 Jay
+---
 
-[namjunemy](https://github.com/namjunemy)님의 Github TIL을 보고 많은 영감을 얻었다.
+## 개발인생
+8살 때 아버지를 따라 코딩을 시작하고, 15년째 코딩을 하고있는 이재민입니다.
 
-## 작성법
-- 폴더와 파일명은 영문으로 작성한다.
-- [Github-Flavoured Markdown](https://guides.github.com/features/mastering-markdown/)으로 문서를 작성한다.
-- 간결하고 핵심을 기본으로 한다.
-- 참고한 레퍼런스를 링크로 기록한다.
-- 작성이 완료되면 [til-vuepress](https://github.com/J911/til-vuepress)로 빌드하여 [j911.me](https://j911.me)에 업로드한다.
+컴퓨터에 관한것이라면 다 좋아해서 안해본 것 없이 살다가 최근 들어서 자바스크립트에 정착해있습니다.
+
+## 거쳐간 기술
+- Language
+    - Visual basic: 8살때 가장 처음 접해본 프로그램 언어
+    - C
+    - C++
+    - JAVA
+    - PHP: 웹 서버에 대해 처음 알게해준 언어
+    - Python
+    - assembly
+    - JavaScript: 드디어 최종 정착한 언어!
+- Tools
+    - RPG2003: 처음으로 사람들이 나의 서비스를 사용하기 시작한 게임을 만들었던 툴
+    - OllyDbg: 해킹 대회준비를 하면서 접한 리버스 엔지니어링 툴
+    - wireshark:해킹 대회준비를 하면서 접한 네트워크 캡쳐 툴
+    - PM2
+    - Docker
+    - SSH
+    - FTP
+    - Gitlab
+    - Github
+- Database
+    - Mysql
+    - Oracle
+    - MongoDB
+    - MariaDB: 요즘 가장 많이 쓰는 디비
+    - RDS
+    - Firebase RDB

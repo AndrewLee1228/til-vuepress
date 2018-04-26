@@ -44,6 +44,12 @@ module.exports = {
                             ],
                         },
                         {
+                            title: 'tensorflow',
+                            children: [
+                                '/til/tensorflow/tensorflow-install'
+                            ]
+                        },
+                        {
                             title: 'webRTC',
                             children: [
                                 '/til/webRTC/webRTC-tutorial'

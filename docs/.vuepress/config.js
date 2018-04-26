@@ -69,6 +69,12 @@ module.exports = {
                                 '/til/data-communication/07-switching',
                                 '/til/data-communication/08-arp'
                             ]
+                        },
+                        {
+                            title: 'etc',
+                            children: [
+                                '/til/etc/install-zsh'
+                            ]
                         }
                     ],
                     '/project/': [

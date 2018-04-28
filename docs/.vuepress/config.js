@@ -60,7 +60,8 @@ module.exports = {
                             children: [
                                 '/til/TypeScript/01-TypeScript-overview',
                                 '/til/TypeScript/02-building-ENV-and-using-compiler',
-                                '/til/TypeScript/03-using-tslint'
+                                '/til/TypeScript/03-using-tslint',
+                                '/til/TypeScript/04-compiler-option'
                             ],
                         },
                         {

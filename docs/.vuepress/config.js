@@ -78,6 +78,12 @@ module.exports = {
                             ]
                         },
                         {
+                            title: 'algorism',
+                            children: [
+                                '/til/algorism/HashTable'
+                            ]
+                        },
+                        {
                             title: 'etc',
                             children: [
                                 '/til/etc/install-zsh'

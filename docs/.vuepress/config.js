@@ -26,37 +26,37 @@ module.exports = {
                 sidebar:  {
                     '/til/': [
                         {
-                            title: 'koa',
+                            title: 'Koa',
                             children: [
-                                '/til/koa/introduce-koa',
+                                '/til/Koa/introduce-koa',
                             ],
                         },
                         {
-                            title: 'vuepress',
+                            title: 'Vuepress',
                             children: [
-                                '/til/vuepress/01-easy-start'
+                                '/til/Vuepress/01-easy-start'
                             ],
                         },
                         {
-                            title: 'webpack',
+                            title: 'Webpack',
                             children: [
-                                '/til/webpack/how-to-setting-webpack'
+                                '/til/Webpack/how-to-setting-webpack'
                             ],
                         },
                         {
-                            title: 'tensorflow',
+                            title: 'Tensorflow',
                             children: [
-                                '/til/tensorflow/tensorflow-install'
+                                '/til/Tensorflow/tensorflow-install'
                             ]
                         },
                         {
-                            title: 'webRTC',
+                            title: 'WebRTC',
                             children: [
-                                '/til/webRTC/webRTC-tutorial'
+                                '/til/WebRTC/webRTC-tutorial'
                             ],
                         },
                         {
-                            title: 'typeScript',
+                            title: 'TypeScript',
                             children: [
                                 '/til/TypeScript/01-TypeScript-overview',
                                 '/til/TypeScript/02-building-ENV-and-using-compiler',
@@ -65,28 +65,28 @@ module.exports = {
                             ],
                         },
                         {
-                            title: 'data-communication',
+                            title: 'Data-communication',
                             children: [
-                                '/til/data-communication/01-introduction',
-                                '/til/data-communication/02-network-models',
-                                '/til/data-communication/03-data-and-signals',              
-                                '/til/data-communication/04-digital-transmission',
-                                '/til/data-communication/05-analog-transmission',
-                                '/til/data-communication/06-bandwidth-utilization',
-                                '/til/data-communication/07-switching',
-                                '/til/data-communication/08-arp'
+                                '/til/Data-communication/01-introduction',
+                                '/til/Data-communication/02-network-models',
+                                '/til/Data-communication/03-data-and-signals',              
+                                '/til/Data-communication/04-digital-transmission',
+                                '/til/Data-communication/05-analog-transmission',
+                                '/til/Data-communication/06-bandwidth-utilization',
+                                '/til/Data-communication/07-switching',
+                                '/til/Data-communication/08-arp'
                             ]
                         },
                         {
-                            title: 'algorism',
+                            title: 'Algorism',
                             children: [
-                                '/til/algorism/HashTable'
+                                '/til/Algorism/HashTable'
                             ]
                         },
                         {
-                            title: 'etc',
+                            title: 'Etc',
                             children: [
-                                '/til/etc/install-zsh'
+                                '/til/Etc/install-zsh'
                             ]
                         }
                     ],

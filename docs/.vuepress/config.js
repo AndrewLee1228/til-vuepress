@@ -84,6 +84,12 @@ module.exports = {
                             ]
                         },
                         {
+                            title: 'DR',
+                            children: [
+                                '/til/DR/',
+                            ],
+                        },
+                        {
                             title: 'Etc',
                             children: [
                                 '/til/Etc/install-zsh'
